@@ -8,9 +8,8 @@
 <h2 align="center">💝 About me 💝 <br></h2>
 <div align="center">
 반갑습니다.<br>
-제 이름은 권유정이고 개발 공부를 하고 있어요!<br>
+제 이름은 김정호이고 개발 공부를 하고 있어요!<br>
 웹 개발을 주력으로 학습중입니다. <br>
-현재 가톨릭대학교 컴퓨터정보공학부에 재학중이며<br> 뭐든 배우려는 자세로 다양한 학습에 임하고 있습니다. 🙂<br>
 </div>
 <br>
 <br>
@@ -19,8 +18,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/notion-000000.svg?style=flat-square&logo=notion&logoColor=white"/>
-포트폴리오 노션 링크 <a href="https://www.notion.so/be4b3773f150401b82d24fe4d445d912">https://www.notion.so/be4b3773f150401b82d24fe4d445d912</a>
-
+포트폴리오 노션 링크 <a href="https://www.notion.so/Portfolio-4886fd5a43bb429483de25ed7dd5cc57">https://www.notion.so/Portfolio-4886fd5a43bb429483de25ed7dd5cc57</a>
 </div>
 <br>
 <br>
@@ -48,7 +46,7 @@
 <div align="center">
 
   
-  [![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujeong-world&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/yujeong-world/github-readme-stats)
+  [![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongho22&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/yujeong-world/github-readme-stats)
 
 
 </div>
