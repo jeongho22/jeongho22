@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/mariadb-1F305F.svg?&style=for-the-badge&logo=mariadbfoundation&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/AWS%20RDS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
   <br>
